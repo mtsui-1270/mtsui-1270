@@ -2,14 +2,14 @@
 
 
 
-## 🙋 about me
+## :star2: about me
 
 - 🎓 Student **@ UCBerkeley**
 - 🛠️ I love building **creative websites and tools!**
 - 🌱 Currently learning / exploring **AI agents and Machine Learning**
 ---
 
-## 🧰 tech stack
+## :computer: tech stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
